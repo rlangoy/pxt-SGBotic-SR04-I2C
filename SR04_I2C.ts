@@ -10,7 +10,6 @@ namespace SGBotic {
     /**
      * Read ultrasonic sensor. Connect TRIG to SCL, ECHO to SDA
      */
-    //% subcategory=SR04-I2C
     //% blockId="pingcm" block="ping cm"
     //% weight=100 blockGap=3 
     export function pingcm(): number {

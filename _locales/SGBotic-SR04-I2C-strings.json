@@ -1,6 +1,5 @@
 {
   "SGBotic.pingcm|block": "ping cm",
-  "SGBotic|block": "SGBotic",
-  "{id:category}SGBotic": "SGBotic",
-  "{id:subcategory}SR04-I2C": "SR04-I2C"
+  "SGBotic|block": "SR04-I2C",
+  "{id:category}SGBotic": "SR04-I2C"
 }
